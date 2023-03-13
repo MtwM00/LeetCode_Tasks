@@ -7,7 +7,7 @@ import java.util.Set;
 
 public class Task_2133 {
 
-    /*
+    /**
     Task 2133. Check if Every Row and Column Contains All Numbers.
 
     An n x n matrix is valid if every row and every column contains all the integers from 1 to n (inclusive).
